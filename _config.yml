@@ -2,7 +2,7 @@
 title: Contact Page
 description: A blog about lorem ipsum dolor sit amet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "139.59.175.225:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://marcvisser.eu" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Marc Visser
@@ -15,6 +15,6 @@ gplus_username: bugorfeature
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-114296280-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
